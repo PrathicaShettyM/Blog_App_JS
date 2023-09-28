@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background: #070258;
+}
+main{
+    display: flex;
+}
+.left-hero-sec h1{
+    padding: 40px;
+    text-align: center;
+    color: #070258;
+    font-size: 40px;
+}
+
+.left-hero-sec button{
+   padding: 10px 20px;
+   font-size: 13px;
+   border: 0;
+   margin: 30px 145px;
+   background: #04f72c;
+}
+.left-hero-sec{
+   width: 35%;
+   height: 90vh;
+   background-color: #fff; 
+   padding: 20px;
+   margin: 30px;
+   border-radius: 10px;
+}
+#blog{
+    width: 96%;
+    height: 90px;
+    padding: 10px;
+    margin: 10px;
+}
+.left-hero-sec input{
+    width: 96%;
+    height: 40px;
+    padding: 10px;
+    margin: 10px;
+}
+.right-hero-sec{
+    width: 65%;
+    background-color: #fff; 
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.title h1{
+    text-align: center;
+    font-size: 50px;
+    color: #070258;
+}
+.title h2{
+    text-align: center;
+    font-size: 40px;
+    color: #06f86f;
+}
+.content{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content img{
+    width: 40%;
+    padding: 10px;
+}
+.content p{
+    width: 60%;
+    padding: 10px;
+}
