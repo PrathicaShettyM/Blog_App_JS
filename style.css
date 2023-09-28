@@ -24,6 +24,13 @@ main{
    margin: 30px 145px;
    background: #04f72c;
 }
+.left-hero-sec button:hover{
+    padding: 10px 20px;
+    font-size: 13px;
+    border-radius: 30px;
+    margin: 30px 145px;
+    background: #f50398;
+ }
 .left-hero-sec{
    width: 35%;
    height: 90vh;
@@ -67,7 +74,7 @@ main{
     align-items: center;
     justify-content: center;
 }
-.content img{
+.content .img{
     width: 40%;
     padding: 10px;
 }
