@@ -1,5 +1,5 @@
 # Blog_App_JS
-This repository contains a blog app.
+This repository contains a blog app built using HTML5, CSS3 and JavaScript(ES6)
 
 ### Features of this App: 
 1. Users can publish Title and content of blog
